@@ -1,4 +1,4 @@
-
+# 
 ### Python Developer | Telegram Bots | AI
 
 I build Telegram bots with Python, aiogram, and OpenAI. I'm currently learning JavaScript and TypeScript, with a focus on React and Node.js.
@@ -19,8 +19,7 @@ I build Telegram bots with Python, aiogram, and OpenAI. I'm currently learning J
 
 ## Minesweeper Preview
 
-![Animated Minesweeper contribution graph](https://raw.githubusercontent.com/abozanona/pacman-contribution-graph/master/assets/demo/minesweeper.svg)
+![Animated Minesweeper contribution graph](https://raw.githubusercontent.com/abozanona/pacman-contribution-graph/master/assets/demo/minesweeper-dark.svg)
 
-[View the project demo](https://abozanona.github.io/pacman-contribution-graph/)
 
 ---
